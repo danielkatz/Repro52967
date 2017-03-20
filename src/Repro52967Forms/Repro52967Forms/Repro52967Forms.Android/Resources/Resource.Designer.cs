@@ -3703,6 +3703,27 @@ namespace Repro52967Forms.Droid
 			// aapt resource value: 0x7f0b0000
 			public const int common_google_play_services_unknown_issue = 2131427328;
 			
+			// aapt resource value: 0x7f0b0040
+			public const int default_web_client_id = 2131427392;
+			
+			// aapt resource value: 0x7f0b0041
+			public const int firebase_database_url = 2131427393;
+			
+			// aapt resource value: 0x7f0b003e
+			public const int gcm_defaultSenderId = 2131427390;
+			
+			// aapt resource value: 0x7f0b0042
+			public const int google_api_key = 2131427394;
+			
+			// aapt resource value: 0x7f0b003f
+			public const int google_app_id = 2131427391;
+			
+			// aapt resource value: 0x7f0b0043
+			public const int google_crash_reporting_api_key = 2131427395;
+			
+			// aapt resource value: 0x7f0b0044
+			public const int google_storage_bucket = 2131427396;
+			
 			// aapt resource value: 0x7f0b0001
 			public const int mr_button_content_description = 2131427329;
 			
