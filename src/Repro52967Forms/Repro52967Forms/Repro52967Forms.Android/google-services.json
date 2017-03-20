@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1111111111",
+    "firebase_url": "https://aaaaaaa-aa111.firebaseio.com",
+    "project_id": "aaaaaaa-aa111",
+    "storage_bucket": "aaaaaaa-aa111.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1111111111:android:1111111111111111",
+        "android_client_info": {
+          "package_name": "Repro52967Forms.Android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "aaaaaaaaaa-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
